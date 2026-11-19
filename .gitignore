@@ -1,0 +1,7 @@
+# raw source files (PDFs, spreadsheets) are not published; see docs/sources.md
+data/raw/*
+!data/raw/README.md
+*.pdf
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
