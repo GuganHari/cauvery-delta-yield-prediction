@@ -1,0 +1,61 @@
+District,Fasli_year,Rice_area_ha,Rice_production_t,Source,Rice_yield_t_ha,Mettur_opening_storage_TMC,Mettur_opening_delay_days
+Nagapattinam,2005-06,158115.0,136637.0,APY (Ministry of Agriculture),0.864,73.28,53
+Nagapattinam,2006-07,165721.0,630644.0,APY (Ministry of Agriculture),3.805,83.13,0
+Nagapattinam,2007-08,154045.0,289344.0,APY (Ministry of Agriculture),1.878,78.2,36
+Nagapattinam,2008-09,170876.0,225323.0,APY (Ministry of Agriculture),1.319,69.2,0
+Nagapattinam,2009-10,157861.0,432067.0,APY (Ministry of Agriculture),2.737,58.31,46
+Nagapattinam,2010-11,156073.0,321599.0,APY (Ministry of Agriculture),2.061,44.48,46
+Nagapattinam,2011-12,170059.0,577123.0,APY (Ministry of Agriculture),3.394,87.23,-6
+Nagapattinam,2012-13,142240.0,201657.0,APY (Ministry of Agriculture),1.418,46.21,97
+Nagapattinam,2013-14,154795.0,605511.0,APY (Ministry of Agriculture),3.912,77.46,51
+Nagapattinam,2014-15,159499.0,579962.0,Season and Crop Report,3.636,80.58,59
+Nagapattinam,2015-16,163794.0,338260.0,Season and Crop Report,2.065,60.41,58
+Nagapattinam,2016-17,166312.0,263320.0,Season and Crop Report,1.583,50.03,70
+Nagapattinam,2017-18,163888.0,447448.0,Season and Crop Report,2.73,58.67,112
+Nagapattinam,2018-19,168240.0,568135.0,Season and Crop Report,3.377,81.34,37
+Nagapattinam,2019-20,169222.0,558609.0,Table V.5 2019-20,3.301,66.43,62
+Nagapattinam,2020-21,179487.0,479805.0,Season and Crop Report; Nagapattinam + Mayiladuthurai merged; area derived = production / yield,2.673,67.81,0
+Nagapattinam,2021-22,186008.0,609853.0,Season and Crop Report; Nagapattinam + Mayiladuthurai merged,3.279,62.1,0
+Nagapattinam,2022-23,190579.0,614935.0,Season and Crop Report; Nagapattinam + Mayiladuthurai merged,3.227,89.9,-19
+Nagapattinam,2023-24,197224.0,562225.0,Season and Crop Report; Nagapattinam + Mayiladuthurai merged,2.851,69.25,0
+Nagapattinam,2024-25,176129.0,510318.0,Season and Crop Report; Nagapattinam + Mayiladuthurai merged,2.897,77.3,46
+Thanjavur,2005-06,155444.0,399497.0,APY (Ministry of Agriculture),2.57,73.28,53
+Thanjavur,2006-07,165011.0,602626.0,APY (Ministry of Agriculture),3.652,83.13,0
+Thanjavur,2007-08,151463.0,483743.0,APY (Ministry of Agriculture),3.194,78.2,36
+Thanjavur,2008-09,179594.0,369809.0,APY (Ministry of Agriculture),2.059,69.2,0
+Thanjavur,2009-10,164446.0,435779.0,APY (Ministry of Agriculture),2.65,58.31,46
+Thanjavur,2010-11,167303.0,483042.0,APY (Ministry of Agriculture),2.887,44.48,46
+Thanjavur,2011-12,182160.0,730319.0,APY (Ministry of Agriculture),4.009,87.23,-6
+Thanjavur,2012-13,147935.0,434405.0,APY (Ministry of Agriculture),2.936,46.21,97
+Thanjavur,2013-14,168782.0,839904.0,APY (Ministry of Agriculture),4.976,77.46,51
+Thanjavur,2014-15,177756.0,696193.0,Season and Crop Report,3.917,80.58,59
+Thanjavur,2015-16,177426.0,636999.0,Season and Crop Report,3.59,60.41,58
+Thanjavur,2016-17,147193.0,410117.0,Season and Crop Report,2.786,50.03,70
+Thanjavur,2017-18,170697.0,668508.0,Season and Crop Report,3.916,58.67,112
+Thanjavur,2018-19,185585.0,683424.0,Season and Crop Report,3.683,81.34,37
+Thanjavur,2019-20,192231.0,715112.0,Table V.5 2019-20,3.72,66.43,62
+Thanjavur,2020-21,213809.0,604439.0,Season and Crop Report; area derived = production / yield,2.827,67.81,0
+Thanjavur,2021-22,218722.0,874130.0,Season and Crop Report,3.997,62.1,0
+Thanjavur,2022-23,225837.0,837607.0,Season and Crop Report,3.709,89.9,-19
+Thanjavur,2023-24,209732.0,722149.0,Season and Crop Report,3.443,69.25,0
+Thanjavur,2024-25,209532.0,665523.0,Season and Crop Report,3.176,77.3,46
+Thiruvarur,2005-06,156120.0,243456.0,APY (Ministry of Agriculture),1.559,73.28,53
+Thiruvarur,2006-07,176900.0,586375.0,APY (Ministry of Agriculture),3.315,83.13,0
+Thiruvarur,2007-08,151641.0,311347.0,APY (Ministry of Agriculture),2.053,78.2,36
+Thiruvarur,2008-09,178042.0,206617.0,APY (Ministry of Agriculture),1.16,69.2,0
+Thiruvarur,2009-10,166252.0,483125.0,APY (Ministry of Agriculture),2.906,58.31,46
+Thiruvarur,2010-11,160237.0,285589.0,APY (Ministry of Agriculture),1.782,44.48,46
+Thiruvarur,2011-12,186310.0,790017.0,APY (Ministry of Agriculture),4.24,87.23,-6
+Thiruvarur,2012-13,158904.0,192843.0,APY (Ministry of Agriculture),1.214,46.21,97
+Thiruvarur,2013-14,174368.0,820545.0,APY (Ministry of Agriculture),4.706,77.46,51
+Thiruvarur,2014-15,192615.0,852925.0,Season and Crop Report,4.428,80.58,59
+Thiruvarur,2015-16,194743.0,666958.0,Season and Crop Report,3.425,60.41,58
+Thiruvarur,2016-17,186958.0,332913.0,Season and Crop Report,1.781,50.03,70
+Thiruvarur,2017-18,180999.0,699921.0,Season and Crop Report,3.867,58.67,112
+Thiruvarur,2018-19,188709.0,656436.0,Season and Crop Report,3.479,81.34,37
+Thiruvarur,2019-20,180900.0,659279.0,Table V.5 2019-20,3.644,66.43,62
+Thiruvarur,2020-21,194885.0,549771.0,Season and Crop Report; area derived = production / yield,2.821,67.81,0
+Thiruvarur,2021-22,205795.0,753071.0,Season and Crop Report,3.659,62.1,0
+Thiruvarur,2022-23,218109.0,737493.0,Season and Crop Report,3.381,89.9,-19
+Thiruvarur,2023-24,224312.0,660976.0,Season and Crop Report,2.947,69.25,0
+Thiruvarur,2024-25,195952.0,617781.0,Season and Crop Report,3.153,77.3,46

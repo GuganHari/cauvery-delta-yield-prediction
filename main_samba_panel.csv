@@ -1,0 +1,67 @@
+District,Fasli_year,Area_ha,Production_t,Yield_t_per_ha,Mettur_opening_storage_TMC,Mettur_opening_date,Mettur_opening_delay_days,Mettur_closing_date,Mettur_release_days,Mettur_total_inflow_TMC,Mettur_total_outflow_TMC,NEM_rain_mm_report,Source_edition,Notes
+Ariyalur,2014-15,20636.0,104625.0,5.07002326,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,361.0,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Ariyalur,2015-16,21906.0,113298.0,5.172007669,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,,"SCR 2015-16 via ChatGPT extraction, checked",Rain removed: the 2015-16 rainfall table rows are shifted by one district in the extraction (Ariyalur official normals are 392.0 and 545.5). Not used by the models.
+Ariyalur,2016-17,12961.0,34094.0,2.630506905,50.03,2016-08-21,70.0,,,62.2,69.3,128.5,"SCR 2016-17 via ChatGPT extraction, checked",6
+Ariyalur,2017-18,19628.0,87227.0,4.444008559,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,491.7,"SCR 2017-18 via ChatGPT extraction, checked",6
+Ariyalur,2018-19,19103.0,73718.0,3.85897503,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,518.3,"SCR 2018-19 via ChatGPT extraction, checked",6
+Ariyalur,2019-20,20379.0,79599.0,3.905932578,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",5
+Ariyalur,2020-21,20300.0,57225.0,2.818965517,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,536.4,"SCR 2020-21 via ChatGPT extraction, checked",Area derived (production/yield x 1000); area table missing in file.
+Ariyalur,2021-22,21226.0,90008.0,4.240459813,62.1,2021-06-12,0.0,2022-01-28,230.0,,,933.1,"SCR 2021-22 via ChatGPT extraction, checked",5
+Ariyalur,2022-23,21680.0,87607.0,4.040913284,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,398.7,"SCR 2022-23 via ChatGPT extraction, checked",5
+Ariyalur,2023-24,17890.0,67819.0,3.790888765,69.25,2023-06-12,0.0,2023-10-10,120.0,,,284.2,"SCR 2023-24 via ChatGPT extraction, checked",5
+Ariyalur,2024-25,20662.0,72017.0,3.485480592,77.3,2024-07-28,46.0,2025-01-28,184.0,,,617.1,"SCR 2024-25 via ChatGPT extraction, checked",
+Nagapattinam (incl. Mayiladuthurai),2014-15,129676.0,459139.0,3.540662883,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,1016.2,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Nagapattinam (incl. Mayiladuthurai),2015-16,127767.0,203150.0,1.590003679,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,,"SCR 2015-16 via ChatGPT extraction, checked","Old Nagapattinam district (before 2020 split). Yield below 2000 kg/ha matches the report; extreme year, keep. Rain removed: the 2015-16 rainfall table rows are shifted by one district in the extraction. Not used by the models."
+Nagapattinam (incl. Mayiladuthurai),2016-17,129059.0,132841.0,1.029304427,50.03,2016-08-21,70.0,,,62.2,69.3,248.6,"SCR 2016-17 via ChatGPT extraction, checked","Old Nagapattinam district (before 2020 split). Yield below 2000 kg/ha matches the report; extreme year, keep."
+Nagapattinam (incl. Mayiladuthurai),2017-18,128703.0,348528.0,2.708002144,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,1132.3,"SCR 2017-18 via ChatGPT extraction, checked",Old Nagapattinam district (before 2020 split).
+Nagapattinam (incl. Mayiladuthurai),2018-19,130729.0,413886.0,3.165984594,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,816.6,"SCR 2018-19 via ChatGPT extraction, checked",Old Nagapattinam district (before 2020 split).
+Nagapattinam (incl. Mayiladuthurai),2019-20,132169.0,416902.0,3.154310012,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",Old Nagapattinam district (before 2020 split).
+Nagapattinam (incl. Mayiladuthurai),2020-21,133644.0,266756.0,1.996019275,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,1038.4,"SCR 2020-21 via ChatGPT extraction, checked",Nagapattinam + Mayiladuthurai merged. Area derived (production/yield). Rain is Nagapattinam only; report has no Mayiladuthurai rainfall.
+Nagapattinam (incl. Mayiladuthurai),2021-22,133388.0,406026.0,3.043946982,62.1,2021-06-12,0.0,2022-01-28,230.0,,,1186.6,"SCR 2021-22 via ChatGPT extraction, checked",Nagapattinam + Mayiladuthurai merged. Rain is the area-weighted mean.
+Nagapattinam (incl. Mayiladuthurai),2022-23,133667.0,410917.0,3.074184354,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,788.1,"SCR 2022-23 via ChatGPT extraction, checked",Nagapattinam + Mayiladuthurai merged. Rain is the area-weighted mean.
+Nagapattinam (incl. Mayiladuthurai),2023-24,133668.0,366185.0,2.739511327,69.25,2023-06-12,0.0,2023-10-10,120.0,,,857.3,"SCR 2023-24 via ChatGPT extraction, checked",Nagapattinam + Mayiladuthurai merged. Rain is the area-weighted mean.
+Nagapattinam (incl. Mayiladuthurai),2024-25,133360.0,351882.0,2.638587283,77.3,2024-07-28,46.0,2025-01-28,184.0,,,1069.8,"SCR 2024-25 via ChatGPT extraction, checked",Nagapattinam + Mayiladuthurai merged. Rain is the area-weighted mean.
+Perambalur,2014-15,6773.0,32938.0,4.863133028,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,345.9,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Perambalur,2015-16,9458.0,45030.0,4.761048848,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,,"SCR 2015-16 via ChatGPT extraction, checked",Rain removed: the 2015-16 rainfall table rows are shifted by one district in the extraction. Not used by the models.
+Perambalur,2016-17,2628.0,6731.0,2.561263318,50.03,2016-08-21,70.0,,,62.2,69.3,127.2,"SCR 2016-17 via ChatGPT extraction, checked",6
+Perambalur,2017-18,7407.0,37065.0,5.004050223,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,306.8,"SCR 2017-18 via ChatGPT extraction, checked",6
+Perambalur,2018-19,1554.0,6434.0,4.14028314,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,250.1,"SCR 2018-19 via ChatGPT extraction, checked",Small area (1554 ha) compared with other years. Verify.
+Perambalur,2019-20,3710.0,16448.0,4.433423181,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",5
+Perambalur,2020-21,4624.0,15190.0,3.285034602,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,506.3,"SCR 2020-21 via ChatGPT extraction, checked",Area derived (production/yield x 1000); area table missing in file.
+Perambalur,2021-22,5518.0,22265.0,4.034976441,62.1,2021-06-12,0.0,2022-01-28,230.0,,,850.8,"SCR 2021-22 via ChatGPT extraction, checked",5
+Perambalur,2022-23,5064.0,20438.0,4.035939968,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,364.2,"SCR 2022-23 via ChatGPT extraction, checked",5
+Perambalur,2023-24,3869.0,16629.0,4.298009822,69.25,2023-06-12,0.0,2023-10-10,120.0,,,232.5,"SCR 2023-24 via ChatGPT extraction, checked",5
+Perambalur,2024-25,6399.0,25475.0,3.981090795,77.3,2024-07-28,46.0,2025-01-28,184.0,,,492.8,"SCR 2024-25 via ChatGPT extraction, checked",
+Thanjavur,2014-15,130090.0,511939.0,3.935267891,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,549.1,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Thanjavur,2015-16,125294.0,448051.0,3.575997254,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,,"SCR 2015-16 via ChatGPT extraction, checked",Rain removed: the 2015-16 rainfall table rows are shifted by one district in the extraction. Not used by the models.
+Thanjavur,2016-17,103054.0,250583.0,2.431569857,50.03,2016-08-21,70.0,,,62.2,69.3,210.3,"SCR 2016-17 via ChatGPT extraction, checked",Very low yield; production/area matches the report.
+Thanjavur,2017-18,123773.0,491007.0,3.966996033,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,433.7,"SCR 2017-18 via ChatGPT extraction, checked",6
+Thanjavur,2018-19,128219.0,455399.0,3.551727903,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,471.5,"SCR 2018-19 via ChatGPT extraction, checked",6
+Thanjavur,2019-20,135102.0,494543.0,3.660515758,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",5
+Thanjavur,2020-21,136350.0,285926.0,2.097000367,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,581.9,"SCR 2020-21 via ChatGPT extraction, checked",Area derived (production/yield x 1000); area table missing in file.
+Thanjavur,2021-22,140009.0,546939.0,3.906456014,62.1,2021-06-12,0.0,2022-01-28,230.0,,,867.3,"SCR 2021-22 via ChatGPT extraction, checked",5
+Thanjavur,2022-23,136857.0,506478.0,3.700782569,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,466.5,"SCR 2022-23 via ChatGPT extraction, checked",Reported yield 3709; production/area gives 3701 (0.22% gap). Verify.
+Thanjavur,2023-24,117231.0,378272.0,3.226723307,69.25,2023-06-12,0.0,2023-10-10,120.0,,,345.5,"SCR 2023-24 via ChatGPT extraction, checked",5
+Thanjavur,2024-25,126690.0,388818.0,3.069050438,77.3,2024-07-28,46.0,2025-01-28,184.0,,,743.7,"SCR 2024-25 via ChatGPT extraction, checked",Added below the original block; sort by district and year before analysis
+Thiruvarur,2014-15,147347.0,629839.0,4.274528833,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,752.6,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Thiruvarur,2015-16,147848.0,458772.0,3.102997673,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,,"SCR 2015-16 via ChatGPT extraction, checked",Rain removed: the 2015-16 rainfall table rows are shifted by one district in the extraction. Not used by the models.
+Thiruvarur,2016-17,147399.0,148969.0,1.010651361,50.03,2016-08-21,70.0,,,62.2,69.3,250.0,"SCR 2016-17 via ChatGPT extraction, checked","Yield below 2000 kg/ha matches the report; extreme year, keep."
+Thiruvarur,2017-18,147435.0,562612.0,3.816000271,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,701.8,"SCR 2017-18 via ChatGPT extraction, checked",6
+Thiruvarur,2018-19,150339.0,497500.0,3.309187902,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,710.6,"SCR 2018-19 via ChatGPT extraction, checked",6
+Thiruvarur,2019-20,148477.0,527607.0,3.553459458,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",5
+Thiruvarur,2020-21,147353.0,365289.0,2.479006196,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,833.8,"SCR 2020-21 via ChatGPT extraction, checked",Area derived (production/yield x 1000); area table missing in file.
+Thiruvarur,2021-22,147321.0,509773.0,3.4602874,62.1,2021-06-12,0.0,2022-01-28,230.0,,,1030.0,"SCR 2021-22 via ChatGPT extraction, checked",5
+Thiruvarur,2022-23,148318.0,486521.0,3.280255937,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,487.5,"SCR 2022-23 via ChatGPT extraction, checked",Reported yield 3272; production/area gives 3280 (0.25% gap). Verify.
+Thiruvarur,2023-24,144689.0,425836.0,2.943112469,69.25,2023-06-12,0.0,2023-10-10,120.0,,,597.9,"SCR 2023-24 via ChatGPT extraction, checked",5
+Thiruvarur,2024-25,143942.0,445068.0,3.091995387,77.3,2024-07-28,46.0,2025-01-28,184.0,,,894.1,"SCR 2024-25 via ChatGPT extraction, checked",
+Tiruchirappalli,2014-15,45061.0,212969.0,4.726237767,80.58,2014-08-10,59.0,2015-02-05,179.0,208.1,187.02,259.1,"Season and Crop Report 2014-15: area Table IV-A, production Table V-B",6
+Tiruchirappalli,2015-16,50777.0,210268.0,4.141008724,60.41,2015-08-09,58.0,2016-02-25,200.0,96.67,144.37,440.8,"SCR 2015-16 via ChatGPT extraction, checked",6
+Tiruchirappalli,2016-17,21595.0,51010.0,2.362120861,50.03,2016-08-21,70.0,,,62.2,69.3,132.7,"SCR 2016-17 via ChatGPT extraction, checked",6
+Tiruchirappalli,2017-18,40477.0,211330.0,5.220989698,58.67,2017-10-02,112.0,2018-01-28,118.0,117.05,105.18,223.7,"SCR 2017-18 via ChatGPT extraction, checked",6
+Tiruchirappalli,2018-19,38492.0,208599.0,5.419281929,81.34,2018-07-19,37.0,2019-01-28,193.0,371.48,348.18,208.1,"SCR 2018-19 via ChatGPT extraction, checked",Yield 5419 is the highest in the data. Verify in report.
+Tiruchirappalli,2019-20,43131.0,179810.0,4.168927222,66.43,2019-08-13,62.0,2020-01-28,168.0,258.9,198.13,,"Table V.5 rice season-wise, district-wise 2019-20 (user-supplied from another report site)",5
+Tiruchirappalli,2020-21,44171.0,157141.0,3.55756039,67.81,2020-06-12,0.0,2021-01-28,230.0,204.28,189.66,275.2,"SCR 2020-21 via ChatGPT extraction, checked",Area from TNAU district page (2020-21).
+Tiruchirappalli,2021-22,52344.0,190541.0,3.640168883,62.1,2021-06-12,0.0,2022-01-28,230.0,,,668.0,"SCR 2021-22 via ChatGPT extraction, checked",5
+Tiruchirappalli,2022-23,56027.0,207337.0,3.700662181,89.9,2022-05-24,-19.0,2023-01-28,249.0,,,290.6,"SCR 2022-23 via ChatGPT extraction, checked",Reported yield 3687; production/area gives 3701 (0.37% gap). Verify.
+Tiruchirappalli,2023-24,31866.0,123691.0,3.881597941,69.25,2023-06-12,0.0,2023-10-10,120.0,,,202.6,"SCR 2023-24 via ChatGPT extraction, checked",5
+Tiruchirappalli,2024-25,54037.0,202812.0,3.753206137,77.3,2024-07-28,46.0,2025-01-28,184.0,,,541.2,"SCR 2024-25 via ChatGPT extraction, checked",
