@@ -4,6 +4,6 @@ The cleaned, documented tables that the models use are in `data/processed/`.
 
 Try the Live Yield Prediction Demo
 
-Open the Interactive Yield Estimator] ''(https://guganhari.github.io/cauvery-delta-yield-prediction/)''
+Open the Interactive Yield Estimator] (https://guganhari.github.io/cauvery-delta-yield-prediction/)
 
 Enter the required agricultural inputs and explore the estimated rice yield directly in your browser. No Python installation is required to use the online demo.
