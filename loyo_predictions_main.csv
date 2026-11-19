@@ -1,0 +1,463 @@
+Model,District,Yr,A,P
+District average,Ariyalur,2014,5.07002326,3.8388138712
+District average,Nagapattinam,2014,3.540662883,2.5139854077
+District average,Perambalur,2014,4.863133028,4.0535120338
+District average,Thanjavur,2014,3.935267891,3.3186819499999998
+District average,Thiruvarur,2014,4.274528833,3.0046954054
+District average,Tiruchirappalli,2014,4.726237767,3.9845523966000003
+District average,Ariyalur,2015,5.172007669,3.8286154303
+District average,Nagapattinam,2015,1.590003679,2.7090513281
+District average,Perambalur,2015,4.761048848,4.0637204518
+District average,Thanjavur,2015,3.575997254,3.3546090137
+District average,Thiruvarur,2015,3.102997673,3.1218485213999996
+District average,Tiruchirappalli,2015,4.141008724,4.0430753009
+District average,Ariyalur,2016,2.630506905,4.0827655067
+District average,Nagapattinam,2016,1.029304427,2.7651212533
+District average,Perambalur,2016,2.561263318,4.283699004800001
+District average,Thanjavur,2016,2.431569857,3.4690517534
+District average,Thiruvarur,2016,1.010651361,3.3310831526
+District average,Tiruchirappalli,2016,2.362120861,4.2209640872000005
+District average,Ariyalur,2017,4.444008559,3.9014153413000003
+District average,Nagapattinam,2017,2.708002144,2.5972514816
+District average,Perambalur,2017,5.004050223,4.0394203143
+District average,Thanjavur,2017,3.966996033,3.3155091358
+District average,Thiruvarur,2017,3.816000271,3.0505482616
+District average,Tiruchirappalli,2017,5.220989698,3.9350772034999997
+District average,Ariyalur,2018,3.85897503,3.9599186942
+District average,Nagapattinam,2018,3.165984594,2.5514532366
+District average,Perambalur,2018,4.14028314,4.1257970226
+District average,Thanjavur,2018,3.551727903,3.3570359488
+District average,Thiruvarur,2018,3.309187902,3.1012294985
+District average,Tiruchirappalli,2018,5.419281929,3.9152479804
+District average,Ariyalur,2019,3.905932578,3.9552229394
+District average,Nagapattinam,2019,3.154310012,2.5526206948000003
+District average,Perambalur,2019,4.433423181,4.0964830185
+District average,Thanjavur,2019,3.660515758,3.3461571633
+District average,Thiruvarur,2019,3.553459458,3.0768023428999998
+District average,Tiruchirappalli,2019,4.168927222,4.0402834511000005
+District average,Ariyalur,2020,2.818965517,4.0639196455
+District average,Nagapattinam,2020,1.996019275,2.6684497685
+District average,Perambalur,2020,3.285034602,4.2113218764
+District average,Thanjavur,2020,2.097000367,3.5025087024
+District average,Thiruvarur,2020,2.479006196,3.1842476691
+District average,Tiruchirappalli,2020,3.55756039,4.1014201343
+District average,Ariyalur,2021,4.240459813,3.9217702158999996
+District average,Nagapattinam,2021,3.043946982,2.5636569978
+District average,Perambalur,2021,4.034976441,4.1363276925
+District average,Thanjavur,2021,3.906456014,3.3215631377
+District average,Thiruvarur,2021,3.4602874,3.0861195487
+District average,Tiruchirappalli,2021,3.640168883,4.0931592850000005
+District average,Ariyalur,2022,4.040913284,3.9417248688
+District average,Nagapattinam,2022,3.074184354,2.5606332606000004
+District average,Perambalur,2022,4.035939968,4.1362313398
+District average,Thanjavur,2022,3.700782569,3.3421304822000004
+District average,Thiruvarur,2022,3.280255937,3.104122695
+District average,Tiruchirappalli,2022,3.700662181,4.0871099552
+District average,Ariyalur,2023,3.790888765,3.9667273207
+District average,Nagapattinam,2023,2.739511327,2.5941005633
+District average,Perambalur,2023,4.298009822,4.1100243544
+District average,Thanjavur,2023,3.226723307,3.3895364084
+District average,Thiruvarur,2023,2.943112469,3.1378370418
+District average,Tiruchirappalli,2023,3.881597941,4.0690163792
+District average,Ariyalur,2024,3.485480592,3.997268138
+District average,Nagapattinam,2024,2.638587283,2.6041929677
+District average,Perambalur,2024,3.981090795,4.1417162571
+District average,Thanjavur,2024,3.069050438,3.4053036953
+District average,Thiruvarur,2024,3.091995387,3.12294875
+District average,Tiruchirappalli,2024,3.753206137,4.0818555596
+District trend,Ariyalur,2014,5.07002326,4.139282529866605
+District trend,Nagapattinam,2014,3.540662883,1.790145133933322
+District trend,Perambalur,2014,4.863133028,4.092420597133305
+District trend,Thanjavur,2014,3.935267891,3.3462434690666427
+District trend,Thiruvarur,2014,4.274528833,2.6670843805999738
+District trend,Tiruchirappalli,2014,4.726237767,4.1980266391999805
+District trend,Ariyalur,2015,5.172007669,4.080496757404745
+District trend,Nagapattinam,2015,1.590003679,2.6496215122143525
+District trend,Perambalur,2015,4.761048848,4.151454729714317
+District trend,Thanjavur,2015,3.575997254,3.4789328008333342
+District trend,Thiruvarur,2015,3.102997673,3.186629719476244
+District trend,Tiruchirappalli,2015,4.141008724,4.35349467226186
+District trend,Ariyalur,2016,2.630506905,4.577925483483568
+District trend,Nagapattinam,2016,1.029304427,2.7480850032637045
+District trend,Perambalur,2016,2.561263318,4.606744295395629
+District trend,Thanjavur,2016,2.431569857,3.686924220879206
+District trend,Thiruvarur,2016,1.010651361,3.6029391022967445
+District trend,Tiruchirappalli,2016,2.362120861,4.632625741142959
+District trend,Ariyalur,2017,4.444008559,4.100954724395763
+District trend,Nagapattinam,2017,2.708002144,2.473382355458469
+District trend,Perambalur,2017,5.004050223,4.09572184770834
+District trend,Thanjavur,2017,3.966996033,3.3612045253124876
+District trend,Thiruvarur,2017,3.816000271,3.045425298000056
+District trend,Tiruchirappalli,2017,5.220989698,4.025467109791663
+District trend,Ariyalur,2018,3.85897503,4.068646173878761
+District trend,Nagapattinam,2018,3.165984594,2.487425478141418
+District trend,Perambalur,2018,4.14028314,4.172435884252508
+District trend,Thanjavur,2018,3.551727903,3.3903860552323124
+District trend,Thiruvarur,2018,3.309187902,3.112108724383841
+District trend,Tiruchirappalli,2018,5.419281929,3.9698591575959483
+District trend,Ariyalur,2019,3.905932578,3.9552229393999028
+District trend,Nagapattinam,2019,3.154310012,2.5526206948000834
+District trend,Perambalur,2019,4.433423181,4.096483018499939
+District trend,Thanjavur,2019,3.660515758,3.3461571632999636
+District trend,Thiruvarur,2019,3.553459458,3.076802342899988
+District trend,Tiruchirappalli,2019,4.168927222,4.040283451099953
+District trend,Ariyalur,2020,2.818965517,3.9687870930201257
+District trend,Nagapattinam,2020,1.996019275,2.7330623667172347
+District trend,Perambalur,2020,3.285034602,4.1738931274444155
+District trend,Thanjavur,2020,2.097000367,3.4813890644646293
+District trend,Thiruvarur,2020,2.479006196,3.1783915045252424
+District trend,Tiruchirappalli,2020,3.55756039,4.037110227767641
+District trend,Ariyalur,2021,4.240459813,3.6863440488540107
+District trend,Nagapattinam,2021,3.043946982,2.6628994303333684
+District trend,Perambalur,2021,4.034976441,4.044056215041607
+District trend,Thanjavur,2021,3.906456014,3.224351924291625
+District trend,Thiruvarur,2021,3.4602874,3.043758351437482
+District trend,Tiruchirappalli,2021,3.640168883,3.9680642915207898
+District trend,Ariyalur,2022,4.040913284,3.580385020351571
+District trend,Nagapattinam,2022,3.074184354,2.698552934769225
+District trend,Perambalur,2022,4.035939968,3.9934557582966477
+District trend,Thanjavur,2022,3.700782569,3.191395028857073
+District trend,Thiruvarur,2022,3.280255937,3.044340228230709
+District trend,Tiruchirappalli,2022,3.700662181,3.8975100485493783
+District trend,Ariyalur,2023,3.790888765,3.492454815880791
+District trend,Nagapattinam,2023,2.739511327,2.8389850240238275
+District trend,Perambalur,2023,4.298009822,3.8536588643332834
+District trend,Thanjavur,2023,3.226723307,3.2540554519523326
+District trend,Thiruvarur,2023,2.943112469,3.113736876333297
+District trend,Tiruchirappalli,2023,3.881597941,3.775641772618968
+District trend,Ariyalur,2024,3.485480592,3.4569921983999734
+District trend,Nagapattinam,2024,2.638587283,2.974342644599858
+District trend,Perambalur,2024,3.981090795,3.886475849733287
+District trend,Thanjavur,2024,3.069050438,3.2842979483332897
+District trend,Thiruvarur,2024,3.091995387,3.047599753266528
+District trend,Tiruchirappalli,2024,3.753206137,3.730702667733283
+Ridge: storage,Ariyalur,2014,5.07002326,4.068086009147731
+Ridge: storage,Nagapattinam,2014,3.540662883,2.7432575456477304
+Ridge: storage,Perambalur,2014,4.863133028,4.28278417174773
+Ridge: storage,Thanjavur,2014,3.935267891,3.5479540879477303
+Ridge: storage,Thiruvarur,2014,4.274528833,3.2339675433477306
+Ridge: storage,Tiruchirappalli,2014,4.726237767,4.21382453454773
+Ridge: storage,Ariyalur,2015,5.172007669,3.5575135213340285
+Ridge: storage,Nagapattinam,2015,1.590003679,2.4379494191340285
+Ridge: storage,Perambalur,2015,4.761048848,3.7926185428340284
+Ridge: storage,Thanjavur,2015,3.575997254,3.0835071047340286
+Ridge: storage,Thiruvarur,2015,3.102997673,2.850746612434028
+Ridge: storage,Tiruchirappalli,2015,4.141008724,3.7719733919340284
+Ridge: storage,Ariyalur,2016,2.630506905,4.040865852232504
+Ridge: storage,Nagapattinam,2016,1.029304427,2.7232215988325033
+Ridge: storage,Perambalur,2016,2.561263318,4.241799350332505
+Ridge: storage,Thanjavur,2016,2.431569857,3.4271520989325035
+Ridge: storage,Thiruvarur,2016,1.010651361,3.2891834981325037
+Ridge: storage,Tiruchirappalli,2016,2.362120861,4.179064432732504
+Ridge: storage,Ariyalur,2017,4.444008559,3.5144451002607315
+Ridge: storage,Nagapattinam,2017,2.708002144,2.210281240560731
+Ridge: storage,Perambalur,2017,5.004050223,3.6524500732607312
+Ridge: storage,Thanjavur,2017,3.966996033,2.9285388947607314
+Ridge: storage,Thiruvarur,2017,3.816000271,2.663578020560731
+Ridge: storage,Tiruchirappalli,2017,5.220989698,3.548106962460731
+Ridge: storage,Ariyalur,2018,3.85897503,4.267852080567241
+Ridge: storage,Nagapattinam,2018,3.165984594,2.8593866229672407
+Ridge: storage,Perambalur,2018,4.14028314,4.43373040896724
+Ridge: storage,Thanjavur,2018,3.551727903,3.6649693351672408
+Ridge: storage,Thiruvarur,2018,3.309187902,3.4091628848672406
+Ridge: storage,Tiruchirappalli,2018,5.419281929,4.223181366767241
+Ridge: storage,Ariyalur,2019,3.905932578,3.8722930919373537
+Ridge: storage,Nagapattinam,2019,3.154310012,2.469690847337354
+Ridge: storage,Perambalur,2019,4.433423181,4.013553171037353
+Ridge: storage,Thanjavur,2019,3.660515758,3.2632273158373537
+Ridge: storage,Thiruvarur,2019,3.553459458,2.9938724954373535
+Ridge: storage,Tiruchirappalli,2019,4.168927222,3.9573536036373542
+Ridge: storage,Ariyalur,2020,2.818965517,4.022268483686302
+Ridge: storage,Nagapattinam,2020,1.996019275,2.6267986066863016
+Ridge: storage,Perambalur,2020,3.285034602,4.169670714586302
+Ridge: storage,Thanjavur,2020,2.097000367,3.460857540586302
+Ridge: storage,Thiruvarur,2020,2.479006196,3.1425965072863016
+Ridge: storage,Tiruchirappalli,2020,3.55756039,4.059768972486301
+Ridge: storage,Ariyalur,2021,4.240459813,3.708628940614428
+Ridge: storage,Nagapattinam,2021,3.043946982,2.3505157225144284
+Ridge: storage,Perambalur,2021,4.034976441,3.9231864172144286
+Ridge: storage,Thanjavur,2021,3.906456014,3.1084218624144286
+Ridge: storage,Thiruvarur,2021,3.4602874,2.8729782734144287
+Ridge: storage,Tiruchirappalli,2021,3.640168883,3.880018009714429
+Ridge: storage,Ariyalur,2022,4.040913284,4.706087097425196
+Ridge: storage,Nagapattinam,2022,3.074184354,3.3249954892251963
+Ridge: storage,Perambalur,2022,4.035939968,4.9005935684251964
+Ridge: storage,Thanjavur,2022,3.700782569,4.106492710825196
+Ridge: storage,Thiruvarur,2022,3.280255937,3.868484923625196
+Ridge: storage,Tiruchirappalli,2022,3.700662181,4.851472183825196
+Ridge: storage,Ariyalur,2023,3.790888765,3.961709464459674
+Ridge: storage,Nagapattinam,2023,2.739511327,2.5890827070596742
+Ridge: storage,Perambalur,2023,4.298009822,4.105006498159675
+Ridge: storage,Thanjavur,2023,3.226723307,3.3845185521596743
+Ridge: storage,Thiruvarur,2023,2.943112469,3.1328191855596743
+Ridge: storage,Tiruchirappalli,2023,3.881597941,4.0639985229596745
+Ridge: storage,Ariyalur,2024,3.485480592,4.228885663542696
+Ridge: storage,Nagapattinam,2024,2.638587283,2.835810493242696
+Ridge: storage,Perambalur,2024,3.981090795,4.373333782642696
+Ridge: storage,Thanjavur,2024,3.069050438,3.636921220842696
+Ridge: storage,Thiruvarur,2024,3.091995387,3.354566275542696
+Ridge: storage,Tiruchirappalli,2024,3.753206137,4.313473085142697
+Ridge: storage + 3-day rain,Ariyalur,2014,5.07002326,4.071446045406743
+Ridge: storage + 3-day rain,Nagapattinam,2014,3.540662883,2.7273392553671454
+Ridge: storage + 3-day rain,Perambalur,2014,4.863133028,4.211532982526897
+Ridge: storage + 3-day rain,Thanjavur,2014,3.935267891,3.5513141242067428
+Ridge: storage + 3-day rain,Thiruvarur,2014,4.274528833,3.237327579606743
+Ridge: storage + 3-day rain,Tiruchirappalli,2014,4.726237767,4.142573345326897
+Ridge: storage + 3-day rain,Ariyalur,2015,5.172007669,3.626999926269006
+Ridge: storage + 3-day rain,Nagapattinam,2015,1.590003679,2.5178559238674962
+Ridge: storage + 3-day rain,Perambalur,2015,4.761048848,3.7762448175678447
+Ridge: storage + 3-day rain,Thanjavur,2015,3.575997254,3.152993509669006
+Ridge: storage + 3-day rain,Thiruvarur,2015,3.102997673,2.9202330173690054
+Ridge: storage + 3-day rain,Tiruchirappalli,2015,4.141008724,3.7555996666678446
+Ridge: storage + 3-day rain,Ariyalur,2016,2.630506905,4.516186623268715
+Ridge: storage + 3-day rain,Nagapattinam,2016,1.029304427,3.1946833268063406
+Ridge: storage + 3-day rain,Perambalur,2016,2.561263318,4.75120833508635
+Ridge: storage + 3-day rain,Thanjavur,2016,2.431569857,3.902472869968715
+Ridge: storage + 3-day rain,Thiruvarur,2016,1.010651361,3.764504269168715
+Ridge: storage + 3-day rain,Tiruchirappalli,2016,2.362120861,4.68847341748635
+Ridge: storage + 3-day rain,Ariyalur,2017,4.444008559,3.525391567833
+Ridge: storage + 3-day rain,Nagapattinam,2017,2.708002144,2.2306747141118017
+Ridge: storage + 3-day rain,Perambalur,2017,5.004050223,3.6349020264922105
+Ridge: storage + 3-day rain,Thanjavur,2017,3.966996033,2.9394853623329995
+Ridge: storage + 3-day rain,Thiruvarur,2017,3.816000271,2.6745244881329997
+Ridge: storage + 3-day rain,Tiruchirappalli,2017,5.220989698,3.53055891569221
+Ridge: storage + 3-day rain,Ariyalur,2018,3.85897503,4.213964804210438
+Ridge: storage + 3-day rain,Nagapattinam,2018,3.165984594,2.7923825926496546
+Ridge: storage + 3-day rain,Perambalur,2018,4.14028314,4.315863570125465
+Ridge: storage + 3-day rain,Thanjavur,2018,3.551727903,3.611082058810438
+Ridge: storage + 3-day rain,Thiruvarur,2018,3.309187902,3.355275608510438
+Ridge: storage + 3-day rain,Tiruchirappalli,2018,5.419281929,4.105314527925466
+Ridge: storage + 3-day rain,Ariyalur,2019,3.905932578,3.9066018297236056
+Ridge: storage + 3-day rain,Nagapattinam,2019,3.154310012,2.5084007922026483
+Ridge: storage + 3-day rain,Perambalur,2019,4.433423181,3.976382238737901
+Ridge: storage + 3-day rain,Thanjavur,2019,3.660515758,3.2975360536236056
+Ridge: storage + 3-day rain,Thiruvarur,2019,3.553459458,3.0281812332236053
+Ridge: storage + 3-day rain,Tiruchirappalli,2019,4.168927222,3.9201826713379018
+Ridge: storage + 3-day rain,Ariyalur,2020,2.818965517,4.58024627203122
+Ridge: storage + 3-day rain,Nagapattinam,2020,1.996019275,2.9146258631246247
+Ridge: storage + 3-day rain,Perambalur,2020,3.285034602,4.239969517108671
+Ridge: storage + 3-day rain,Thanjavur,2020,2.097000367,4.018835328931219
+Ridge: storage + 3-day rain,Thiruvarur,2020,2.479006196,3.700574295631219
+Ridge: storage + 3-day rain,Tiruchirappalli,2020,3.55756039,4.13006777500867
+Ridge: storage + 3-day rain,Ariyalur,2021,4.240459813,3.7471780721839405
+Ridge: storage + 3-day rain,Nagapattinam,2021,3.043946982,2.3965021468291945
+Ridge: storage + 3-day rain,Perambalur,2021,4.034976441,3.90775840315379
+Ridge: storage + 3-day rain,Thanjavur,2021,3.906456014,3.146970993983941
+Ridge: storage + 3-day rain,Thiruvarur,2021,3.4602874,2.911527404983941
+Ridge: storage + 3-day rain,Tiruchirappalli,2021,3.640168883,3.8645899956537906
+Ridge: storage + 3-day rain,Ariyalur,2022,4.040913284,4.686041112451844
+Ridge: storage + 3-day rain,Nagapattinam,2022,3.074184354,3.3144847438766023
+Ridge: storage + 3-day rain,Perambalur,2022,4.035939968,4.8548316856663005
+Ridge: storage + 3-day rain,Thanjavur,2022,3.700782569,4.086446725851844
+Ridge: storage + 3-day rain,Thiruvarur,2022,3.280255937,3.848438938651844
+Ridge: storage + 3-day rain,Tiruchirappalli,2022,3.700662181,4.8057103010663
+Ridge: storage + 3-day rain,Ariyalur,2023,3.790888765,3.9187849441556386
+Ridge: storage + 3-day rain,Nagapattinam,2023,2.739511327,2.535377460255806
+Ridge: storage + 3-day rain,Perambalur,2023,4.298009822,4.0126729805886
+Ridge: storage + 3-day rain,Thanjavur,2023,3.226723307,3.3415940318556387
+Ridge: storage + 3-day rain,Thiruvarur,2023,2.943112469,3.0898946652556387
+Ridge: storage + 3-day rain,Tiruchirappalli,2023,3.881597941,3.9716650053885996
+Ridge: storage + 3-day rain,Ariyalur,2024,3.485480592,4.382949193422101
+Ridge: storage + 3-day rain,Nagapattinam,2024,2.638587283,2.8807004723674794
+Ridge: storage + 3-day rain,Perambalur,2024,3.981090795,4.427570530737433
+Ridge: storage + 3-day rain,Thanjavur,2024,3.069050438,3.7909847507221017
+Ridge: storage + 3-day rain,Thiruvarur,2024,3.091995387,3.5086298054221015
+Ridge: storage + 3-day rain,Tiruchirappalli,2024,3.753206137,4.367709833237433
+Forest: storage + 3-day rain,Ariyalur,2014,5.07002326,3.969957019898634
+Forest: storage + 3-day rain,Nagapattinam,2014,3.540662883,2.664553384085108
+Forest: storage + 3-day rain,Perambalur,2014,4.863133028,4.238297015773559
+Forest: storage + 3-day rain,Thanjavur,2014,3.935267891,3.4498250986986334
+Forest: storage + 3-day rain,Thiruvarur,2014,4.274528833,3.1358385540986338
+Forest: storage + 3-day rain,Tiruchirappalli,2014,4.726237767,4.169337378573559
+Forest: storage + 3-day rain,Ariyalur,2015,5.172007669,3.9971706761256853
+Forest: storage + 3-day rain,Nagapattinam,2015,1.590003679,2.5912244353907035
+Forest: storage + 3-day rain,Perambalur,2015,4.761048848,4.271616639494632
+Forest: storage + 3-day rain,Thanjavur,2015,3.575997254,3.5231642595256853
+Forest: storage + 3-day rain,Thiruvarur,2015,3.102997673,3.2904037672256847
+Forest: storage + 3-day rain,Tiruchirappalli,2015,4.141008724,4.250971488594632
+Forest: storage + 3-day rain,Ariyalur,2016,2.630506905,4.488228416805024
+Forest: storage + 3-day rain,Nagapattinam,2016,1.029304427,3.170584163405023
+Forest: storage + 3-day rain,Perambalur,2016,2.561263318,4.689161914905024
+Forest: storage + 3-day rain,Thanjavur,2016,2.431569857,3.8745146635050234
+Forest: storage + 3-day rain,Thiruvarur,2016,1.010651361,3.7365460627050235
+Forest: storage + 3-day rain,Tiruchirappalli,2016,2.362120861,4.626426997305024
+Forest: storage + 3-day rain,Ariyalur,2017,4.444008559,4.075184304370546
+Forest: storage + 3-day rain,Nagapattinam,2017,2.708002144,2.8113243176697766
+Forest: storage + 3-day rain,Perambalur,2017,5.004050223,4.204898826080836
+Forest: storage + 3-day rain,Thanjavur,2017,3.966996033,3.4892780988705456
+Forest: storage + 3-day rain,Thiruvarur,2017,3.816000271,3.2243172246705454
+Forest: storage + 3-day rain,Tiruchirappalli,2017,5.220989698,4.100555715280835
+Forest: storage + 3-day rain,Ariyalur,2018,3.85897503,4.3221976958508375
+Forest: storage + 3-day rain,Nagapattinam,2018,3.165984594,2.855483593426292
+Forest: storage + 3-day rain,Perambalur,2018,4.14028314,4.030171209601979
+Forest: storage + 3-day rain,Thanjavur,2018,3.551727903,3.719314950450838
+Forest: storage + 3-day rain,Thiruvarur,2018,3.309187902,3.4635085001508377
+Forest: storage + 3-day rain,Tiruchirappalli,2018,5.419281929,3.8196221674019792
+Forest: storage + 3-day rain,Ariyalur,2019,3.905932578,3.9969211568087855
+Forest: storage + 3-day rain,Nagapattinam,2019,3.154310012,2.5943189122087857
+Forest: storage + 3-day rain,Perambalur,2019,4.433423181,4.193511595973732
+Forest: storage + 3-day rain,Thanjavur,2019,3.660515758,3.3878553807087854
+Forest: storage + 3-day rain,Thiruvarur,2019,3.553459458,3.118500560308785
+Forest: storage + 3-day rain,Tiruchirappalli,2019,4.168927222,4.137312028573732
+Forest: storage + 3-day rain,Ariyalur,2020,2.818965517,3.9608297835721626
+Forest: storage + 3-day rain,Nagapattinam,2020,1.996019275,2.8344004088566677
+Forest: storage + 3-day rain,Perambalur,2020,3.285034602,4.436278816135384
+Forest: storage + 3-day rain,Thanjavur,2020,2.097000367,3.3994188404721624
+Forest: storage + 3-day rain,Thiruvarur,2020,2.479006196,3.081157807172162
+Forest: storage + 3-day rain,Tiruchirappalli,2020,3.55756039,4.326377074035383
+Forest: storage + 3-day rain,Ariyalur,2021,4.240459813,4.225762380767205
+Forest: storage + 3-day rain,Nagapattinam,2021,3.043946982,2.095522641795215
+Forest: storage + 3-day rain,Perambalur,2021,4.034976441,4.5663966434554135
+Forest: storage + 3-day rain,Thanjavur,2021,3.906456014,3.6255553025672054
+Forest: storage + 3-day rain,Thiruvarur,2021,3.4602874,3.3901117135672054
+Forest: storage + 3-day rain,Tiruchirappalli,2021,3.640168883,4.523228235955414
+Forest: storage + 3-day rain,Ariyalur,2022,4.040913284,4.508134657481738
+Forest: storage + 3-day rain,Nagapattinam,2022,3.074184354,3.0996678777958686
+Forest: storage + 3-day rain,Perambalur,2022,4.035939968,4.65270270626693
+Forest: storage + 3-day rain,Thanjavur,2022,3.700782569,3.9085402708817374
+Forest: storage + 3-day rain,Thiruvarur,2022,3.280255937,3.670532483681737
+Forest: storage + 3-day rain,Tiruchirappalli,2022,3.700662181,4.60358132166693
+Forest: storage + 3-day rain,Ariyalur,2023,3.790888765,4.002449431518751
+Forest: storage + 3-day rain,Nagapattinam,2023,2.739511327,2.527016835599463
+Forest: storage + 3-day rain,Perambalur,2023,4.298009822,3.7687844026125537
+Forest: storage + 3-day rain,Thanjavur,2023,3.226723307,3.425258519218751
+Forest: storage + 3-day rain,Thiruvarur,2023,2.943112469,3.173559152618751
+Forest: storage + 3-day rain,Tiruchirappalli,2023,3.881597941,3.7277764274125533
+Forest: storage + 3-day rain,Ariyalur,2024,3.485480592,3.8545899901697505
+Forest: storage + 3-day rain,Nagapattinam,2024,2.638587283,3.0680065804473933
+Forest: storage + 3-day rain,Perambalur,2024,3.981090795,4.605529869847393
+Forest: storage + 3-day rain,Thanjavur,2024,3.069050438,3.2626255474697508
+Forest: storage + 3-day rain,Thiruvarur,2024,3.091995387,2.9802706021697505
+Forest: storage + 3-day rain,Tiruchirappalli,2024,3.753206137,4.545669172347393
+Ridge: EVI,Ariyalur,2014,5.07002326,3.7499161401148418
+Ridge: EVI,Nagapattinam,2014,3.540662883,2.45619037988463
+Ridge: EVI,Perambalur,2014,4.863133028,4.011784099139664
+Ridge: EVI,Thanjavur,2014,3.935267891,3.3455429674248642
+Ridge: EVI,Thiruvarur,2014,4.274528833,3.1088836577447783
+Ridge: EVI,Tiruchirappalli,2014,4.726237767,3.873256073542448
+Ridge: EVI,Ariyalur,2015,5.172007669,3.637992030774569
+Ridge: EVI,Nagapattinam,2015,1.590003679,2.759497662258602
+Ridge: EVI,Perambalur,2015,4.761048848,3.9975927094677965
+Ridge: EVI,Thanjavur,2015,3.575997254,3.4290352290701405
+Ridge: EVI,Thiruvarur,2015,3.102997673,3.1883432008616057
+Ridge: EVI,Tiruchirappalli,2015,4.141008724,3.955410031238098
+Ridge: EVI,Ariyalur,2016,2.630506905,4.260034760114118
+Ridge: EVI,Nagapattinam,2016,1.029304427,2.753354173923578
+Ridge: EVI,Perambalur,2016,2.561263318,4.534161462383766
+Ridge: EVI,Thanjavur,2016,2.431569857,3.4748767812672545
+Ridge: EVI,Thiruvarur,2016,1.010651361,3.226394976794334
+Ridge: EVI,Tiruchirappalli,2016,2.362120861,4.539552896907108
+Ridge: EVI,Ariyalur,2017,4.444008559,3.834187949711657
+Ridge: EVI,Nagapattinam,2017,2.708002144,2.476815625380636
+Ridge: EVI,Perambalur,2017,5.004050223,4.211256243063085
+Ridge: EVI,Thanjavur,2017,3.966996033,3.304766492553618
+Ridge: EVI,Thiruvarur,2017,3.816000271,3.021817982743142
+Ridge: EVI,Tiruchirappalli,2017,5.220989698,3.8928805058885594
+Ridge: EVI,Ariyalur,2018,3.85897503,3.8252618461526
+Ridge: EVI,Nagapattinam,2018,3.165984594,2.4520831197903044
+Ridge: EVI,Perambalur,2018,4.14028314,4.028776678590606
+Ridge: EVI,Thanjavur,2018,3.551727903,3.2818580192192717
+Ridge: EVI,Thiruvarur,2018,3.309187902,3.1207316552102995
+Ridge: EVI,Tiruchirappalli,2018,5.419281929,3.7504957461375548
+Ridge: EVI,Ariyalur,2019,3.905932578,3.9329294524127842
+Ridge: EVI,Nagapattinam,2019,3.154310012,2.6497688306560385
+Ridge: EVI,Perambalur,2019,4.433423181,4.129616951885714
+Ridge: EVI,Thanjavur,2019,3.660515758,3.4497256131740555
+Ridge: EVI,Thiruvarur,2019,3.553459458,3.2381642400621815
+Ridge: EVI,Tiruchirappalli,2019,4.168927222,4.081814110760433
+Ridge: EVI,Ariyalur,2020,2.818965517,3.905769187535967
+Ridge: EVI,Nagapattinam,2020,1.996019275,2.7380309559743177
+Ridge: EVI,Perambalur,2020,3.285034602,4.214521485947267
+Ridge: EVI,Thanjavur,2020,2.097000367,3.559740885584138
+Ridge: EVI,Thiruvarur,2020,2.479006196,3.4033743398338343
+Ridge: EVI,Tiruchirappalli,2020,3.55756039,4.030966814109898
+Ridge: EVI,Ariyalur,2021,4.240459813,3.8231299515030956
+Ridge: EVI,Nagapattinam,2021,3.043946982,2.637235848577478
+Ridge: EVI,Perambalur,2021,4.034976441,4.0941345372007865
+Ridge: EVI,Thanjavur,2021,3.906456014,3.378204049861818
+Ridge: EVI,Thiruvarur,2021,3.4602874,3.2132289855415603
+Ridge: EVI,Tiruchirappalli,2021,3.640168883,4.059274993766199
+Ridge: EVI,Ariyalur,2022,4.040913284,3.9194994199894833
+Ridge: EVI,Nagapattinam,2022,3.074184354,2.5618412796918415
+Ridge: EVI,Perambalur,2022,4.035939968,4.192999527341961
+Ridge: EVI,Thanjavur,2022,3.700782569,3.426985274693589
+Ridge: EVI,Thiruvarur,2022,3.280255937,3.206562899430264
+Ridge: EVI,Tiruchirappalli,2022,3.700662181,3.9879652318421455
+Ridge: EVI,Ariyalur,2023,3.790888765,3.8916020524643686
+Ridge: EVI,Nagapattinam,2023,2.739511327,2.773270213171952
+Ridge: EVI,Perambalur,2023,4.298009822,4.138719892405776
+Ridge: EVI,Thanjavur,2023,3.226723307,3.431001754495299
+Ridge: EVI,Thiruvarur,2023,2.943112469,3.3239416250846743
+Ridge: EVI,Tiruchirappalli,2023,3.881597941,4.047173232622343
+Ridge: EVI,Ariyalur,2024,3.485480592,3.91840844789098
+Ridge: EVI,Nagapattinam,2024,2.638587283,2.7253896548188985
+Ridge: EVI,Perambalur,2024,3.981090795,4.274560370285759
+Ridge: EVI,Thanjavur,2024,3.069050438,3.534068239974654
+Ridge: EVI,Thiruvarur,2024,3.091995387,3.3152355910676823
+Ridge: EVI,Tiruchirappalli,2024,3.753206137,4.178090078693944
+Ridge: storage + EVI,Ariyalur,2014,5.07002326,3.9848579593767934
+Ridge: storage + EVI,Nagapattinam,2014,3.540662883,2.6822697906735966
+Ridge: storage + EVI,Perambalur,2014,4.863133028,4.233285350233691
+Ridge: storage + EVI,Thanjavur,2014,3.935267891,3.547500473242465
+Ridge: storage + EVI,Thiruvarur,2014,4.274528833,3.288807530794118
+Ridge: storage + EVI,Tiruchirappalli,2014,4.726237767,4.114580150628011
+Ridge: storage + EVI,Ariyalur,2015,5.172007669,3.445599874589999
+Ridge: storage + EVI,Nagapattinam,2015,1.590003679,2.4823268256862154
+Ridge: storage + EVI,Perambalur,2015,4.761048848,3.761418294226644
+Ridge: storage + EVI,Thanjavur,2015,3.575997254,3.1434312198472405
+Ridge: storage + EVI,Thiruvarur,2015,3.102997673,2.9055285303810603
+Ridge: storage + EVI,Tiruchirappalli,2015,4.141008724,3.7268098689648506
+Ridge: storage + EVI,Ariyalur,2016,2.630506905,4.221780394902434
+Ridge: storage + EVI,Nagapattinam,2016,1.029304427,2.7164958626533293
+Ridge: storage + EVI,Perambalur,2016,2.561263318,4.495366557373944
+Ridge: storage + EVI,Thanjavur,2016,2.431569857,3.4378885503657206
+Ridge: storage + EVI,Thiruvarur,2016,1.010651361,3.1902228979588645
+Ridge: storage + EVI,Tiruchirappalli,2016,2.362120861,4.500254871354302
+Ridge: storage + EVI,Ariyalur,2017,4.444008559,3.4926673198896787
+Ridge: storage + EVI,Nagapattinam,2017,2.708002144,2.1652368142682827
+Ridge: storage + EVI,Perambalur,2017,5.004050223,3.7352083223726087
+Ridge: storage + EVI,Thanjavur,2017,3.966996033,2.9314603920092277
+Ridge: storage + EVI,Thiruvarur,2017,3.816000271,2.6586340033349
+Ridge: storage + EVI,Tiruchirappalli,2017,5.220989698,3.5372744386003854
+Ridge: storage + EVI,Ariyalur,2018,3.85897503,4.167083171744252
+Ridge: storage + EVI,Nagapattinam,2018,3.165984594,2.7789664434875916
+Ridge: storage + EVI,Perambalur,2018,4.14028314,4.354665268309679
+Ridge: storage + EVI,Thanjavur,2018,3.551727903,3.598500016333466
+Ridge: storage + EVI,Thiruvarur,2018,3.309187902,3.3972925436820827
+Ridge: storage + EVI,Tiruchirappalli,2018,5.419281929,4.105057411242764
+Ridge: storage + EVI,Ariyalur,2019,3.905932578,3.8644644734720393
+Ridge: storage + EVI,Nagapattinam,2019,3.154310012,2.5162281598308907
+Ridge: storage + EVI,Perambalur,2019,4.433423181,4.030953306481188
+Ridge: storage + EVI,Thanjavur,2019,3.660515758,3.3126869458641655
+Ridge: storage + EVI,Thiruvarur,2019,3.553459458,3.06963781765376
+Ridge: storage + EVI,Tiruchirappalli,2019,4.168927222,3.978575655010202
+Ridge: storage + EVI,Ariyalur,2020,2.818965517,3.92323533144408
+Ridge: storage + EVI,Nagapattinam,2020,1.996019275,2.6733109238854347
+Ridge: storage + EVI,Perambalur,2020,3.285034602,4.173757931386879
+Ridge: storage + EVI,Thanjavur,2020,2.097000367,3.4994774912103463
+Ridge: storage + EVI,Thiruvarur,2020,2.479006196,3.284684770998906
+Ridge: storage + EVI,Tiruchirappalli,2020,3.55756039,4.016783898504794
+Ridge: storage + EVI,Ariyalur,2021,4.240459813,3.6633976500217424
+Ridge: storage + EVI,Nagapattinam,2021,3.043946982,2.396950116396642
+Ridge: storage + EVI,Perambalur,2021,4.034976441,3.907999775770183
+Ridge: storage + EVI,Thanjavur,2021,3.906456014,3.145840835823565
+Ridge: storage + EVI,Thiruvarur,2021,3.4602874,2.947904962167267
+Ridge: storage + EVI,Tiruchirappalli,2021,3.640168883,3.869253860575952
+Ridge: storage + EVI,Ariyalur,2022,4.040913284,4.671223233401454
+Ridge: storage + EVI,Nagapattinam,2022,3.074184354,3.3027431436055994
+Ridge: storage + EVI,Perambalur,2022,4.035939968,4.9082428186712095
+Ridge: storage + EVI,Thanjavur,2022,3.700782569,4.129257723566686
+Ridge: storage + EVI,Thiruvarur,2022,3.280255937,3.900714124390752
+Ridge: storage + EVI,Tiruchirappalli,2022,3.700662181,4.775211593946396
+Ridge: storage + EVI,Ariyalur,2023,3.790888765,3.916868488384496
+Ridge: storage + EVI,Nagapattinam,2023,2.739511327,2.696721379412504
+Ridge: storage + EVI,Perambalur,2023,4.298009822,4.122418280232438
+Ridge: storage + EVI,Thanjavur,2023,3.226723307,3.4095873328955406
+Ridge: storage + EVI,Thiruvarur,2023,2.943112469,3.2446161644036944
+Ridge: storage + EVI,Tiruchirappalli,2023,3.881597941,4.051106432211686
+Ridge: storage + EVI,Ariyalur,2024,3.485480592,4.163291162551433
+Ridge: storage + EVI,Nagapattinam,2024,2.638587283,2.9146580862532527
+Ridge: storage + EVI,Perambalur,2024,3.981090795,4.4605908981795555
+Ridge: storage + EVI,Thanjavur,2024,3.069050438,3.7212328595768014
+Ridge: storage + EVI,Thiruvarur,2024,3.091995387,3.484741453514844
+Ridge: storage + EVI,Tiruchirappalli,2024,3.753206137,4.37429781944557

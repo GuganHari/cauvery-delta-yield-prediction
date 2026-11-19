@@ -1,0 +1,421 @@
+Model,District,Yr,A,P
+District average,Nagapattinam,2005,0.864,2.7443684210526316
+District average,Thanjavur,2005,2.57,3.4277368421052627
+District average,Thiruvarur,2005,1.559,3.050578947368421
+District average,Nagapattinam,2006,3.805,2.589578947368421
+District average,Thanjavur,2006,3.652,3.370789473684211
+District average,Thiruvarur,2006,3.315,2.958157894736842
+District average,Nagapattinam,2007,1.878,2.691
+District average,Thanjavur,2007,3.194,3.3948947368421054
+District average,Thiruvarur,2007,2.053,3.024578947368421
+District average,Nagapattinam,2008,1.319,2.720421052631579
+District average,Thanjavur,2008,2.059,3.4546315789473687
+District average,Thiruvarur,2008,1.16,3.071578947368421
+District average,Nagapattinam,2009,2.737,2.6457894736842102
+District average,Thanjavur,2009,2.65,3.4235263157894735
+District average,Thiruvarur,2009,2.906,2.9796842105263157
+District average,Nagapattinam,2010,2.061,2.6813684210526314
+District average,Thanjavur,2010,2.887,3.4110526315789476
+District average,Thiruvarur,2010,1.782,3.038842105263158
+District average,Nagapattinam,2011,3.394,2.6112105263157894
+District average,Thanjavur,2011,4.009,3.3520000000000003
+District average,Thiruvarur,2011,4.24,2.909473684210526
+District average,Nagapattinam,2012,1.418,2.7152105263157895
+District average,Thanjavur,2012,2.936,3.408473684210526
+District average,Thiruvarur,2012,1.214,3.068736842105263
+District average,Nagapattinam,2013,3.912,2.5839473684210525
+District average,Thanjavur,2013,4.976,3.3011052631578948
+District average,Thiruvarur,2013,4.706,2.8849473684210527
+District average,Nagapattinam,2014,3.636,2.5984736842105263
+District average,Thanjavur,2014,3.917,3.356842105263158
+District average,Thiruvarur,2014,4.428,2.899578947368421
+District average,Nagapattinam,2015,2.065,2.681157894736842
+District average,Thanjavur,2015,3.59,3.374052631578947
+District average,Thiruvarur,2015,3.425,2.9523684210526313
+District average,Nagapattinam,2016,1.583,2.7065263157894734
+District average,Thanjavur,2016,2.786,3.4163684210526317
+District average,Thiruvarur,2016,1.781,3.038894736842105
+District average,Nagapattinam,2017,2.73,2.646157894736842
+District average,Thanjavur,2017,3.916,3.356894736842105
+District average,Thiruvarur,2017,3.867,2.929105263157895
+District average,Nagapattinam,2018,3.377,2.6121052631578947
+District average,Thanjavur,2018,3.683,3.369157894736842
+District average,Thiruvarur,2018,3.479,2.9495263157894733
+District average,Nagapattinam,2019,3.301,2.6161052631578947
+District average,Thanjavur,2019,3.72,3.3672105263157897
+District average,Thiruvarur,2019,3.644,2.9408421052631577
+District average,Nagapattinam,2020,2.673,2.649157894736842
+District average,Thanjavur,2020,2.827,3.41421052631579
+District average,Thiruvarur,2020,2.821,2.984157894736842
+District average,Nagapattinam,2021,3.279,2.6172631578947367
+District average,Thanjavur,2021,3.997,3.3526315789473684
+District average,Thiruvarur,2021,3.659,2.940052631578947
+District average,Nagapattinam,2022,3.227,2.62
+District average,Thanjavur,2022,3.709,3.3677894736842107
+District average,Thiruvarur,2022,3.381,2.954684210526316
+District average,Nagapattinam,2023,2.851,2.6397894736842105
+District average,Thanjavur,2023,3.443,3.381789473684211
+District average,Thiruvarur,2023,2.947,2.977526315789474
+District average,Nagapattinam,2024,2.897,2.6373684210526314
+District average,Thanjavur,2024,3.176,3.3958421052631578
+District average,Thiruvarur,2024,3.153,2.966684210526316
+District trend,Nagapattinam,2005,0.864,2.387035087719326
+District trend,Thanjavur,2005,2.57,3.1667894736842257
+District trend,Thiruvarur,2005,1.559,2.50601754385967
+District trend,Nagapattinam,2006,3.805,1.851809651474582
+District trend,Thanjavur,2006,3.652,2.9847149240393662
+District trend,Thiruvarur,2006,3.315,2.2252412868633655
+District trend,Nagapattinam,2007,1.878,2.27222502172026
+District trend,Thanjavur,2007,3.194,3.1144978279756828
+District trend,Thiruvarur,2007,2.053,2.5303588184188044
+District trend,Nagapattinam,2008,1.319,2.399310432569962
+District trend,Thanjavur,2008,2.059,3.3008049194232356
+District trend,Thiruvarur,2008,1.16,2.7100848176420698
+District trend,Nagapattinam,2009,2.737,2.2916209476309177
+District trend,Thanjavur,2009,2.65,3.2519143807148794
+District trend,Thiruvarur,2009,2.906,2.5699983374896647
+District trend,Nagapattinam,2010,2.061,2.420568274734265
+District trend,Thanjavur,2010,2.887,3.258985282093221
+District trend,Thiruvarur,2010,1.782,2.747764513491447
+District trend,Nagapattinam,2011,3.394,2.3797344632768045
+District trend,Thanjavur,2011,4.009,3.208937853107301
+District trend,Thiruvarur,2011,4.24,2.6277401129942746
+District trend,Nagapattinam,2012,1.418,2.5753685051958826
+District trend,Thanjavur,2012,2.936,3.3211782573941164
+District trend,Thiruvarur,2012,1.214,2.906573940847352
+District trend,Nagapattinam,2013,3.912,2.488100873709257
+District trend,Thanjavur,2013,4.976,3.2402597299443983
+District trend,Thiruvarur,2013,4.706,2.770710087370901
+District trend,Nagapattinam,2014,3.636,2.5677925574030667
+District trend,Thanjavur,2014,3.917,3.3383919239905566
+District trend,Thiruvarur,2014,4.428,2.863178147268485
+District trend,Nagapattinam,2015,2.065,2.711672209026162
+District trend,Thanjavur,2015,3.59,3.392195566112477
+District trend,Thiruvarur,2015,3.425,2.987977038796572
+District trend,Nagapattinam,2016,1.583,2.801641779189808
+District trend,Thanjavur,2016,2.786,3.4734805401112254
+District trend,Thiruvarur,2016,1.781,3.1511191421763556
+District trend,Nagapattinam,2017,2.73,2.7981239008792897
+District trend,Thanjavur,2017,3.916,3.4433245403676906
+District trend,Thiruvarur,2017,3.867,3.1004292565947367
+District trend,Nagapattinam,2018,3.377,2.812977401129899
+District trend,Thanjavur,2018,3.683,3.4930225988700414
+District trend,Thiruvarur,2018,3.479,3.1944802259886558
+District trend,Nagapattinam,2019,3.301,2.874768601798891
+District trend,Thanjavur,2019,3.72,3.524949304987757
+District trend,Thiruvarur,2019,3.644,3.250255110384302
+District trend,Nagapattinam,2020,2.673,2.9975403158768756
+District trend,Thanjavur,2020,2.827,3.6542551953449163
+District trend,Thiruvarur,2020,2.821,3.4057547797172845
+District trend,Nagapattinam,2021,3.279,2.9913876166243227
+District trend,Thanjavur,2021,3.997,3.5603019508058082
+District trend,Thiruvarur,2021,3.659,3.3870237489398676
+District trend,Nagapattinam,2022,3.227,3.0589096437880414
+District trend,Thanjavur,2022,3.709,3.634471763683763
+District trend,Thiruvarur,2022,3.381,3.502198957428334
+District trend,Nagapattinam,2023,2.851,3.193333333333385
+District trend,Thanjavur,2023,3.443,3.7236461126005906
+District trend,Thiruvarur,2023,2.947,3.6683047363717947
+District trend,Nagapattinam,2024,2.897,3.264824561403529
+District trend,Thanjavur,2024,3.176,3.83638596491231
+District trend,Thiruvarur,2024,3.153,3.7287894736842304
+Ridge: storage,Nagapattinam,2005,0.864,2.891036187103394
+Ridge: storage,Thanjavur,2005,2.57,3.574404608156025
+Ridge: storage,Thiruvarur,2005,1.559,3.197246713419183
+Ridge: storage,Nagapattinam,2006,3.805,3.041755851845064
+Ridge: storage,Thanjavur,2006,3.652,3.822966378160854
+Ridge: storage,Thiruvarur,2006,3.315,3.4103347992134845
+Ridge: storage,Nagapattinam,2007,1.878,3.015984627090857
+Ridge: storage,Thanjavur,2007,3.194,3.7198793639329626
+Ridge: storage,Thiruvarur,2007,2.053,3.349563574459278
+Ridge: storage,Nagapattinam,2008,1.319,2.7248241869607623
+Ridge: storage,Thanjavur,2008,2.059,3.459034713276552
+Ridge: storage,Thiruvarur,2008,1.16,3.0759820816976045
+Ridge: storage,Nagapattinam,2009,2.737,2.2888998266421474
+Ridge: storage,Thanjavur,2009,2.65,3.0666366687474107
+Ridge: storage,Thiruvarur,2009,2.906,2.622794563484253
+Ridge: storage,Nagapattinam,2010,2.061,1.8672783083573385
+Ridge: storage,Thanjavur,2010,2.887,2.5969625188836547
+Ridge: storage,Thiruvarur,2010,1.782,2.224751992567865
+Ridge: storage,Nagapattinam,2011,3.394,3.1723713395014674
+Ridge: storage,Thanjavur,2011,4.009,3.9131608131856783
+Ridge: storage,Thiruvarur,2011,4.24,3.470634497396204
+Ridge: storage,Nagapattinam,2012,1.418,2.0482730076820417
+Ridge: storage,Thanjavur,2012,2.936,2.741536165576778
+Ridge: storage,Thiruvarur,2012,1.214,2.4017993234715154
+Ridge: storage,Nagapattinam,2013,3.912,2.830104632423914
+Ridge: storage,Thanjavur,2013,4.976,3.5472625271607563
+Ridge: storage,Thiruvarur,2013,4.706,3.1311046324239142
+Ridge: storage,Nagapattinam,2014,3.636,2.948551150343021
+Ridge: storage,Thanjavur,2014,3.917,3.7069195713956526
+Ridge: storage,Thiruvarur,2014,4.428,3.2496564135009156
+Ridge: storage,Nagapattinam,2015,2.065,2.389832778883428
+Ridge: storage,Thanjavur,2015,3.59,3.082727515725533
+Ridge: storage,Thiruvarur,2015,3.425,2.6610433051992173
+Ridge: storage,Nagapattinam,2016,1.583,2.1269634000771567
+Ridge: storage,Thanjavur,2016,2.786,2.836805505340315
+Ridge: storage,Thiruvarur,2016,1.781,2.4593318211297883
+Ridge: storage,Nagapattinam,2017,2.73,2.275151511751901
+Ridge: storage,Thanjavur,2017,3.916,2.985888353857164
+Ridge: storage,Thiruvarur,2017,3.867,2.558098880172954
+Ridge: storage,Nagapattinam,2018,3.377,3.0088584426761003
+Ridge: storage,Thanjavur,2018,3.683,3.7659110742550475
+Ridge: storage,Thiruvarur,2018,3.479,3.346279495307679
+Ridge: storage,Nagapattinam,2019,3.301,2.528233625271945
+Ridge: storage,Thanjavur,2019,3.72,3.27933888842984
+Ridge: storage,Thiruvarur,2019,3.644,2.852970467377208
+Ridge: storage,Nagapattinam,2020,2.673,2.6080638378778995
+Ridge: storage,Thanjavur,2020,2.827,3.373116469456847
+Ridge: storage,Thiruvarur,2020,2.821,2.9430638378778995
+Ridge: storage,Nagapattinam,2021,3.279,2.375094772443774
+Ridge: storage,Thanjavur,2021,3.997,3.1104631934964058
+Ridge: storage,Thiruvarur,2021,3.659,2.6978842461279844
+Ridge: storage,Nagapattinam,2022,3.227,3.3415157121733357
+Ridge: storage,Thanjavur,2022,3.709,4.089305185857546
+Ridge: storage,Thiruvarur,2022,3.381,3.6761999226996513
+Ridge: storage,Nagapattinam,2023,2.851,2.64582294502483
+Ridge: storage,Thanjavur,2023,3.443,3.3878229450248303
+Ridge: storage,Thiruvarur,2023,2.947,2.983559787130093
+Ridge: storage,Nagapattinam,2024,2.897,2.9117206410244365
+Ridge: storage,Thanjavur,2024,3.176,3.670194325234963
+Ridge: storage,Thiruvarur,2024,3.153,3.241036430498121
+Ridge: storage + 3-day rain,Nagapattinam,2005,0.864,2.8196841793881546
+Ridge: storage + 3-day rain,Thanjavur,2005,2.57,3.024758418326421
+Ridge: storage + 3-day rain,Thiruvarur,2005,1.559,2.647600523589579
+Ridge: storage + 3-day rain,Nagapattinam,2006,3.805,3.339707637333527
+Ridge: storage + 3-day rain,Thanjavur,2006,3.652,4.11792517550183
+Ridge: storage + 3-day rain,Thiruvarur,2006,3.315,3.7052935965544607
+Ridge: storage + 3-day rain,Nagapattinam,2007,1.878,2.8404557999364335
+Ridge: storage + 3-day rain,Thanjavur,2007,3.194,3.3305651842397084
+Ridge: storage + 3-day rain,Thiruvarur,2007,2.053,2.960249394766024
+Ridge: storage + 3-day rain,Nagapattinam,2008,1.319,2.1118807898139833
+Ridge: storage + 3-day rain,Thanjavur,2008,2.059,2.6791294896572815
+Ridge: storage + 3-day rain,Thiruvarur,2008,1.16,2.296076858078334
+Ridge: storage + 3-day rain,Nagapattinam,2009,2.737,2.3526853027112287
+Ridge: storage + 3-day rain,Thanjavur,2009,2.65,3.0977050541991655
+Ridge: storage + 3-day rain,Thiruvarur,2009,2.906,2.6538629489360077
+Ridge: storage + 3-day rain,Nagapattinam,2010,2.061,1.9687197988852363
+Ridge: storage + 3-day rain,Thanjavur,2010,2.887,2.5490063675502603
+Ridge: storage + 3-day rain,Thiruvarur,2010,1.782,2.176795841234471
+Ridge: storage + 3-day rain,Nagapattinam,2011,3.394,3.315099654048224
+Ridge: storage + 3-day rain,Thanjavur,2011,4.009,3.894544892025288
+Ridge: storage + 3-day rain,Thiruvarur,2011,4.24,3.452018576235814
+Ridge: storage + 3-day rain,Nagapattinam,2012,1.418,1.9791542316978332
+Ridge: storage + 3-day rain,Thanjavur,2012,2.936,2.790007914797781
+Ridge: storage + 3-day rain,Thiruvarur,2012,1.214,2.4502710726925185
+Ridge: storage + 3-day rain,Nagapattinam,2013,3.912,3.2792918616461857
+Ridge: storage + 3-day rain,Thanjavur,2013,4.976,3.816604760290031
+Ridge: storage + 3-day rain,Thiruvarur,2013,4.706,3.4004468655531888
+Ridge: storage + 3-day rain,Nagapattinam,2014,3.636,3.1678287508251124
+Ridge: storage + 3-day rain,Thanjavur,2014,3.917,3.8558290384060108
+Ridge: storage + 3-day rain,Thiruvarur,2014,4.428,3.398565880511274
+Ridge: storage + 3-day rain,Nagapattinam,2015,2.065,2.125853031875196
+Ridge: storage + 3-day rain,Thanjavur,2015,3.59,2.8851801943460895
+Ridge: storage + 3-day rain,Thiruvarur,2015,3.425,2.463495983819774
+Ridge: storage + 3-day rain,Nagapattinam,2016,1.583,3.2267589865819253
+Ridge: storage + 3-day rain,Thanjavur,2016,2.786,3.9443000554800993
+Ridge: storage + 3-day rain,Thiruvarur,2016,1.781,3.5668263712695727
+Ridge: storage + 3-day rain,Nagapattinam,2017,2.73,2.3916103236373276
+Ridge: storage + 3-day rain,Thanjavur,2017,3.916,3.1521244758512528
+Ridge: storage + 3-day rain,Thiruvarur,2017,3.867,2.7243350021670425
+Ridge: storage + 3-day rain,Nagapattinam,2018,3.377,3.437924178583642
+Ridge: storage + 3-day rain,Thanjavur,2018,3.683,4.139450397591927
+Ridge: storage + 3-day rain,Thiruvarur,2018,3.479,3.7198188186445584
+Ridge: storage + 3-day rain,Nagapattinam,2019,3.301,2.5300512103809467
+Ridge: storage + 3-day rain,Thanjavur,2019,3.72,3.304490051436408
+Ridge: storage + 3-day rain,Thiruvarur,2019,3.644,2.878121630383776
+Ridge: storage + 3-day rain,Nagapattinam,2020,2.673,2.4511592598368974
+Ridge: storage + 3-day rain,Thanjavur,2020,2.827,2.8559736085193865
+Ridge: storage + 3-day rain,Thiruvarur,2020,2.821,2.425920976940439
+Ridge: storage + 3-day rain,Nagapattinam,2021,3.279,2.078646337448207
+Ridge: storage + 3-day rain,Thanjavur,2021,3.997,2.9020037309422473
+Ridge: storage + 3-day rain,Thiruvarur,2021,3.659,2.489424783573826
+Ridge: storage + 3-day rain,Nagapattinam,2022,3.227,3.533348603148574
+Ridge: storage + 3-day rain,Thanjavur,2022,3.709,4.346436791669299
+Ridge: storage + 3-day rain,Thiruvarur,2022,3.381,3.9333315285114043
+Ridge: storage + 3-day rain,Nagapattinam,2023,2.851,3.117474410668975
+Ridge: storage + 3-day rain,Thanjavur,2023,3.443,3.8045850972032946
+Ridge: storage + 3-day rain,Thiruvarur,2023,2.947,3.4003219393085575
+Ridge: storage + 3-day rain,Nagapattinam,2024,2.897,2.9901464769890715
+Ridge: storage + 3-day rain,Thanjavur,2024,3.176,3.4410712130587817
+Ridge: storage + 3-day rain,Thiruvarur,2024,3.153,3.0119133183219398
+Forest: storage + 3-day rain,Nagapattinam,2005,0.864,2.8798179694538497
+Forest: storage + 3-day rain,Thanjavur,2005,2.57,2.6033755249477615
+Forest: storage + 3-day rain,Thiruvarur,2005,1.559,2.22621763021092
+Forest: storage + 3-day rain,Nagapattinam,2006,3.805,3.4047258391928654
+Forest: storage + 3-day rain,Thanjavur,2006,3.652,4.185936365508655
+Forest: storage + 3-day rain,Thiruvarur,2006,3.315,3.7733047865612863
+Forest: storage + 3-day rain,Nagapattinam,2007,1.878,3.454975765941975
+Forest: storage + 3-day rain,Thanjavur,2007,3.194,3.9354117585470405
+Forest: storage + 3-day rain,Thiruvarur,2007,2.053,3.565095969073356
+Forest: storage + 3-day rain,Nagapattinam,2008,1.319,2.2710021408816927
+Forest: storage + 3-day rain,Thanjavur,2008,2.059,3.0052126671974824
+Forest: storage + 3-day rain,Thiruvarur,2008,1.16,2.622160035618535
+Forest: storage + 3-day rain,Nagapattinam,2009,2.737,2.8571135069819373
+Forest: storage + 3-day rain,Thanjavur,2009,2.65,3.6348503490872006
+Forest: storage + 3-day rain,Thiruvarur,2009,2.906,3.191008243824043
+Forest: storage + 3-day rain,Nagapattinam,2010,2.061,1.8589087067717083
+Forest: storage + 3-day rain,Thanjavur,2010,2.887,2.5633320180169936
+Forest: storage + 3-day rain,Thiruvarur,2010,1.782,2.191121491701204
+Forest: storage + 3-day rain,Nagapattinam,2011,3.394,3.2556391397017266
+Forest: storage + 3-day rain,Thanjavur,2011,4.009,3.6681650797158056
+Forest: storage + 3-day rain,Thiruvarur,2011,4.24,3.225638763926332
+Forest: storage + 3-day rain,Nagapattinam,2012,1.418,2.0565642500453336
+Forest: storage + 3-day rain,Thanjavur,2012,2.936,2.752373929420539
+Forest: storage + 3-day rain,Thiruvarur,2012,1.214,2.412637087315276
+Forest: storage + 3-day rain,Nagapattinam,2013,3.912,2.8234011820360565
+Forest: storage + 3-day rain,Thanjavur,2013,4.976,3.546545703879882
+Forest: storage + 3-day rain,Thiruvarur,2013,4.706,3.13038780914304
+Forest: storage + 3-day rain,Nagapattinam,2014,3.636,3.1810244008279955
+Forest: storage + 3-day rain,Thanjavur,2014,3.917,3.9432576605507292
+Forest: storage + 3-day rain,Thiruvarur,2014,4.428,3.485994502655992
+Forest: storage + 3-day rain,Nagapattinam,2015,2.065,2.667019103420041
+Forest: storage + 3-day rain,Thanjavur,2015,3.59,3.3971823573882944
+Forest: storage + 3-day rain,Thiruvarur,2015,3.425,2.9754981468619786
+Forest: storage + 3-day rain,Nagapattinam,2016,1.583,2.632355772533996
+Forest: storage + 3-day rain,Thanjavur,2016,2.786,3.342197877797154
+Forest: storage + 3-day rain,Thiruvarur,2016,1.781,2.9647241935866275
+Forest: storage + 3-day rain,Nagapattinam,2017,2.73,2.4337304328364255
+Forest: storage + 3-day rain,Thanjavur,2017,3.916,3.1894527766853153
+Forest: storage + 3-day rain,Thiruvarur,2017,3.867,2.761663303001105
+Forest: storage + 3-day rain,Nagapattinam,2018,3.377,3.6444149465386246
+Forest: storage + 3-day rain,Thanjavur,2018,3.683,4.401467578117572
+Forest: storage + 3-day rain,Thiruvarur,2018,3.479,3.9818359991702037
+Forest: storage + 3-day rain,Nagapattinam,2019,3.301,2.586919120194832
+Forest: storage + 3-day rain,Thanjavur,2019,3.72,3.3380243833527268
+Forest: storage + 3-day rain,Thiruvarur,2019,3.644,2.911655962300095
+Forest: storage + 3-day rain,Nagapattinam,2020,2.673,2.547546256135927
+Forest: storage + 3-day rain,Thanjavur,2020,2.827,2.6619004977738814
+Forest: storage + 3-day rain,Thiruvarur,2020,2.821,2.2318478661949337
+Forest: storage + 3-day rain,Nagapattinam,2021,3.279,2.3207700921665073
+Forest: storage + 3-day rain,Thanjavur,2021,3.997,3.2157031513536753
+Forest: storage + 3-day rain,Thiruvarur,2021,3.659,2.803124203985254
+Forest: storage + 3-day rain,Nagapattinam,2022,3.227,3.3906268310138303
+Forest: storage + 3-day rain,Thanjavur,2022,3.709,4.149166231598626
+Forest: storage + 3-day rain,Thiruvarur,2022,3.381,3.736060968440731
+Forest: storage + 3-day rain,Nagapattinam,2023,2.851,2.689206205341602
+Forest: storage + 3-day rain,Thanjavur,2023,3.443,3.4312062053416024
+Forest: storage + 3-day rain,Thiruvarur,2023,2.947,3.0269430474468653
+Forest: storage + 3-day rain,Nagapattinam,2024,2.897,2.9874297075061538
+Forest: storage + 3-day rain,Thanjavur,2024,3.176,3.247842625509237
+Forest: storage + 3-day rain,Thiruvarur,2024,3.153,2.8186847307723952
+Ridge: EVI,Nagapattinam,2005,0.864,2.724598571570341
+Ridge: EVI,Thanjavur,2005,2.57,3.386899846986404
+Ridge: EVI,Thiruvarur,2005,1.559,3.2760249196558355
+Ridge: EVI,Nagapattinam,2006,3.805,2.4800118119569454
+Ridge: EVI,Thanjavur,2006,3.652,3.290587934432601
+Ridge: EVI,Thiruvarur,2006,3.315,2.99981500371129
+Ridge: EVI,Nagapattinam,2007,1.878,2.7141004608825763
+Ridge: EVI,Thanjavur,2007,3.194,3.2719068400236
+Ridge: EVI,Thiruvarur,2007,2.053,3.102752467536457
+Ridge: EVI,Nagapattinam,2008,1.319,2.8896304006432465
+Ridge: EVI,Thanjavur,2008,2.059,3.6346608062357655
+Ridge: EVI,Thiruvarur,2008,1.16,3.215533873888212
+Ridge: EVI,Nagapattinam,2009,2.737,2.560784697601075
+Ridge: EVI,Thanjavur,2009,2.65,3.369159207901381
+Ridge: EVI,Thiruvarur,2009,2.906,3.0555178709090685
+Ridge: EVI,Nagapattinam,2010,2.061,2.6370479935956483
+Ridge: EVI,Thanjavur,2010,2.887,3.3892176215912353
+Ridge: EVI,Thiruvarur,2010,1.782,3.139704050634512
+Ridge: EVI,Nagapattinam,2011,3.394,2.4771014926197137
+Ridge: EVI,Thanjavur,2011,4.009,3.2347507341904325
+Ridge: EVI,Thiruvarur,2011,4.24,2.8474910573735803
+Ridge: EVI,Nagapattinam,2012,1.418,2.645821602585866
+Ridge: EVI,Thanjavur,2012,2.936,3.3455376153413483
+Ridge: EVI,Thiruvarur,2012,1.214,3.082828002274549
+Ridge: EVI,Nagapattinam,2013,3.912,2.5490397581916158
+Ridge: EVI,Thanjavur,2013,4.976,3.295876782878387
+Ridge: EVI,Thiruvarur,2013,4.706,2.997579863807874
+Ridge: EVI,Nagapattinam,2014,3.636,2.4799112502314
+Ridge: EVI,Thanjavur,2014,3.917,3.3395036956264845
+Ridge: EVI,Thiruvarur,2014,4.428,2.974701435091831
+Ridge: EVI,Nagapattinam,2015,2.065,2.6915926483515342
+Ridge: EVI,Thanjavur,2015,3.59,3.4105946877596147
+Ridge: EVI,Thiruvarur,2015,3.425,2.9802752798380188
+Ridge: EVI,Nagapattinam,2016,1.583,2.6920074728687706
+Ridge: EVI,Thanjavur,2016,2.786,3.370399038324501
+Ridge: EVI,Thiruvarur,2016,1.781,3.190496904992906
+Ridge: EVI,Nagapattinam,2017,2.73,2.3531330754845508
+Ridge: EVI,Thanjavur,2017,3.916,3.266883652585949
+Ridge: EVI,Thiruvarur,2017,3.867,2.8058037228191766
+Ridge: EVI,Nagapattinam,2018,3.377,2.4292065707591557
+Ridge: EVI,Thanjavur,2018,3.683,3.217330299352143
+Ridge: EVI,Thiruvarur,2018,3.479,2.919300546589543
+Ridge: EVI,Nagapattinam,2019,3.301,2.6780780804737163
+Ridge: EVI,Thanjavur,2019,3.72,3.4355884292797723
+Ridge: EVI,Thiruvarur,2019,3.644,3.066876374994269
+Ridge: EVI,Nagapattinam,2020,2.673,2.6859839922830737
+Ridge: EVI,Thanjavur,2020,2.827,3.4356463340590295
+Ridge: EVI,Thiruvarur,2020,2.821,3.2073592069975723
+Ridge: EVI,Nagapattinam,2021,3.279,2.655278499361724
+Ridge: EVI,Thanjavur,2021,3.997,3.3736252720708206
+Ridge: EVI,Thiruvarur,2021,3.659,3.031863114962656
+Ridge: EVI,Nagapattinam,2022,3.227,2.576681625288627
+Ridge: EVI,Thanjavur,2022,3.709,3.423450531856379
+Ridge: EVI,Thiruvarur,2022,3.381,3.0311541299339995
+Ridge: EVI,Nagapattinam,2023,2.851,2.8049493901974856
+Ridge: EVI,Thanjavur,2023,3.443,3.3839058257748804
+Ridge: EVI,Thiruvarur,2023,2.947,3.150897277503468
+Ridge: EVI,Nagapattinam,2024,2.897,2.713663761209519
+Ridge: EVI,Thanjavur,2024,3.176,3.4800750953726896
+Ridge: EVI,Thiruvarur,2024,3.153,3.117543422025614
+Ridge: storage + EVI,Nagapattinam,2005,0.864,2.8708547747948687
+Ridge: storage + EVI,Thanjavur,2005,2.57,3.531469043956371
+Ridge: storage + EVI,Thiruvarur,2005,1.559,3.4419174149618414
+Ridge: storage + EVI,Nagapattinam,2006,3.805,2.9336431779481122
+Ridge: storage + EVI,Thanjavur,2006,3.652,3.7436182408608287
+Ridge: storage + EVI,Thiruvarur,2006,3.315,3.450351088484887
+Ridge: storage + EVI,Nagapattinam,2007,1.878,3.0418058155476313
+Ridge: storage + EVI,Thanjavur,2007,3.194,3.5904354843047113
+Ridge: storage + EVI,Thiruvarur,2007,2.053,3.4339173005814008
+Ridge: storage + EVI,Nagapattinam,2008,1.319,2.876021520680906
+Ridge: storage + EVI,Thanjavur,2008,2.059,3.619900941121578
+Ridge: storage + EVI,Thiruvarur,2008,1.16,3.2046114808461237
+Ridge: storage + EVI,Nagapattinam,2009,2.737,2.1918520612898265
+Ridge: storage + EVI,Thanjavur,2009,2.65,3.003649869275379
+Ridge: storage + EVI,Thiruvarur,2009,2.906,2.7045565059017345
+Ridge: storage + EVI,Nagapattinam,2010,2.061,1.8199291729937694
+Ridge: storage + EVI,Thanjavur,2010,2.887,2.5727111416589725
+Ridge: storage + EVI,Thiruvarur,2010,1.782,2.3265389512172905
+Ridge: storage + EVI,Nagapattinam,2011,3.394,3.0442478058585385
+Ridge: storage + EVI,Thanjavur,2011,4.009,3.8002504644229553
+Ridge: storage + EVI,Thiruvarur,2011,4.24,3.4075932572747054
+Ridge: storage + EVI,Nagapattinam,2012,1.418,1.9392857709570888
+Ridge: storage + EVI,Thanjavur,2012,2.936,2.641394436673362
+Ridge: storage + EVI,Thiruvarur,2012,1.214,2.4072457368143705
+Ridge: storage + EVI,Nagapattinam,2013,3.912,2.7916455339326514
+Ridge: storage + EVI,Thanjavur,2013,4.976,3.542851891096686
+Ridge: storage + EVI,Thiruvarur,2013,4.706,3.2619063495648555
+Ridge: storage + EVI,Nagapattinam,2014,3.636,2.8272258576243536
+Ridge: storage + EVI,Thanjavur,2014,3.917,3.6900425928615195
+Ridge: storage + EVI,Thiruvarur,2014,4.428,3.3281854901990653
+Ridge: storage + EVI,Nagapattinam,2015,2.065,2.3999428606661706
+Ridge: storage + EVI,Thanjavur,2015,3.59,3.119912647432133
+Ridge: storage + EVI,Thiruvarur,2015,3.425,2.6892731493961737
+Ridge: storage + EVI,Nagapattinam,2016,1.583,2.112849491720462
+Ridge: storage + EVI,Thanjavur,2016,2.786,2.791409942793607
+Ridge: storage + EVI,Thiruvarur,2016,1.781,2.61044687398815
+Ridge: storage + EVI,Nagapattinam,2017,2.73,1.9041947107003718
+Ridge: storage + EVI,Thanjavur,2017,3.916,2.865250419641828
+Ridge: storage + EVI,Thiruvarur,2017,3.867,2.3964133328825437
+Ridge: storage + EVI,Nagapattinam,2018,3.377,2.83854245178245
+Ridge: storage + EVI,Thanjavur,2018,3.683,3.6239726411716693
+Ridge: storage + EVI,Thiruvarur,2018,3.479,3.315401281656966
+Ridge: storage + EVI,Nagapattinam,2019,3.301,2.5921083301343
+Ridge: storage + EVI,Thanjavur,2019,3.72,3.349823442017745
+Ridge: storage + EVI,Thiruvarur,2019,3.644,2.982954594168314
+Ridge: storage + EVI,Nagapattinam,2020,2.673,2.646597447851082
+Ridge: storage + EVI,Thanjavur,2020,2.827,3.3954803076023543
+Ridge: storage + EVI,Thiruvarur,2020,2.821,3.1774121293706936
+Ridge: storage + EVI,Nagapattinam,2021,3.279,2.4131985316099422
+Ridge: storage + EVI,Thanjavur,2021,3.997,3.1314945951262354
+Ridge: storage + EVI,Thiruvarur,2021,3.659,2.7899434083188623
+Ridge: storage + EVI,Nagapattinam,2022,3.227,3.298979851255077
+Ridge: storage + EVI,Thanjavur,2022,3.709,4.164991921416559
+Ridge: storage + EVI,Thiruvarur,2022,3.381,3.776741090470782
+Ridge: storage + EVI,Nagapattinam,2023,2.851,2.8242084913941596
+Ridge: storage + EVI,Thanjavur,2023,3.443,3.390137169045654
+Ridge: storage + EVI,Thiruvarur,2023,2.947,3.170812470276479
+Ridge: storage + EVI,Nagapattinam,2024,2.897,3.0087049206606302
+Ridge: storage + EVI,Thanjavur,2024,3.176,3.776842917987677
+Ridge: storage + EVI,Thiruvarur,2024,3.153,3.4288043304919875
